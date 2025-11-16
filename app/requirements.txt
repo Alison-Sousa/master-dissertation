@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+altair
+scikit-learn
+transformers
+torch
+pycountry
+openpyxl
