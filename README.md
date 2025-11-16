@@ -56,9 +56,9 @@ Passo a passo:
    - e o arquivo final [results/previsao_risco_cidades.csv](results/previsao_risco_cidades.csv).
 
 Imagens sugeridas (adicione na pasta assets/):
-- ![Exemplo — Mapa de risco](results/Graph1.PNG)
-- ![Exemplo — Séries temporais por cluster](results/Graph3.PNG)
-- ![Exemplo — Tendência por capital](results/Graph4.PNG)
+- ![Exemplo — Mapa de risco](results/Graph1.png)
+- ![Exemplo — Séries temporais por cluster](results/Graph3.png)
+- ![Exemplo — Tendência por capital](results/Graph4.png)
 
 ---
 
